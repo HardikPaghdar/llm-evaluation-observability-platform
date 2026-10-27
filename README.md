@@ -29,3 +29,10 @@ The score is lexical token overlap, not semantic similarity or an LLM judge. Tok
 
 ## Stack
 Python, FastAPI, Pydantic, pytest. Dependencies are free/open source.
+
+## Explore more
+
+- [AI Agent Evaluation Platform](https://github.com/HardikPaghdar/ai-agent-evaluation-platform) — recorded-run metrics and errors.
+- [LLM Prompt Versioning Playground](https://github.com/HardikPaghdar/llm-prompt-versioning-playground) — immutable prompt versions.
+- [LLM Security & Prompt Injection Testing Lab](https://github.com/HardikPaghdar/llm-security-prompt-injection-lab) — deterministic security regression cases.
+- [More projects on my portfolio](https://hardikpaghdar.netlify.app/).
